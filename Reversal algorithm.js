@@ -13,8 +13,8 @@ function reversearray(a, start, stop){
 
 function reversalalgo(a, d){
     reversearray(a, 0, d-1)
-    reversearray(a, d, a.size - 1)
-    reversearray(a, 0, a.size - 1)
+    reversearray(a, d, a.length - 1)
+    reversearray(a, 0, a.length - 1)
     
 }
 
