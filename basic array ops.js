@@ -1,4 +1,4 @@
-// baked using JS Rhino missing semicols
+// baked using JS Rhino, missing semicols
 
 function insertinarray(a, pos, val){
     a.push(0)
